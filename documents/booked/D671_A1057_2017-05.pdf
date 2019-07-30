@@ -1,0 +1,140 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+]
+/Count 1
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 612.000 792.000]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20180401152053+00'00')
+/ModDate (D:20180401152053+00'00')
+/Title (Receipt)
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 2301 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 658.108 Td /F2 9.8 Tf  [(Email:)] TJ ET
+BT 63.275 658.108 Td /F1 9.8 Tf  [( teachers@everydayschool.org )] TJ ET
+BT 34.016 646.204 Td /F2 9.8 Tf  [(Account Id:)] TJ ET
+BT 87.641 646.204 Td /F1 9.8 Tf  [( 535e7dec3441ba9e5004dc92 )] TJ ET
+BT 34.016 634.299 Td /F2 9.8 Tf  [(Date:)] TJ ET
+BT 58.391 634.299 Td /F1 9.8 Tf  [( 5th May 2017 )] TJ ET
+BT 34.016 622.394 Td /F2 9.8 Tf  [(Order #:)] TJ ET
+BT 71.943 622.394 Td /F1 9.8 Tf  [( ch_AbHoGumxjdkR4x )] TJ ET
+BT 34.016 610.489 Td /F2 9.8 Tf  [(Payment Method:)] TJ ET
+BT 115.272 610.489 Td /F1 9.8 Tf  [( Card)] TJ ET
+0.922 0.922 0.922 rg
+34.766 575.504 361.646 20.155 re f
+0.000 0.000 0.000 rg
+34.391 595.283 362.396 0.750 re f
+34.391 575.129 0.750 20.905 re f
+BT 42.641 582.010 Td /F1 9.8 Tf  [(Description)] TJ ET
+0.922 0.922 0.922 rg
+396.411 575.504 180.823 20.155 re f
+0.000 0.000 0.000 rg
+396.036 595.283 181.573 0.750 re f
+396.036 575.129 0.750 20.905 re f
+576.859 575.129 0.750 20.905 re f
+BT 404.286 582.010 Td /F1 9.8 Tf  [(Price)] TJ ET
+34.391 575.129 362.396 0.750 re f
+34.391 554.974 0.750 20.905 re f
+BT 42.641 561.855 Td /F1 9.8 Tf  [(Buffer Free)] TJ ET
+396.036 575.129 181.573 0.750 re f
+396.036 554.974 0.750 20.905 re f
+576.859 554.974 0.750 20.905 re f
+BT 404.286 561.855 Td /F1 9.8 Tf  [($10.00)] TJ ET
+34.391 554.974 362.396 0.750 re f
+34.391 534.819 362.396 0.750 re f
+34.391 534.819 0.750 20.905 re f
+BT 42.641 541.700 Td /F2 9.8 Tf  [(Total)] TJ ET
+396.036 554.974 181.573 0.750 re f
+396.036 534.819 181.573 0.750 re f
+396.036 534.819 0.750 20.905 re f
+576.859 534.819 0.750 20.905 re f
+BT 404.286 541.700 Td /F2 9.8 Tf  [($10.00)] TJ ET
+0.800 0.800 0.800 rg
+0.800 0.800 0.800 RG
+34.016 513.819 m 577.984 513.819 l 577.984 514.569 l 34.016 514.569 l  f
+0.000 0.000 0.000 rg
+BT 34.016 487.720 Td /F1 9.8 Tf  [(Buffer, Inc.)] TJ ET
+BT 34.016 475.816 Td /F1 9.8 Tf  [(344 Tehama Street)] TJ ET
+BT 34.016 463.911 Td /F1 9.8 Tf  [(San Francisco,)] TJ ET
+BT 34.016 452.006 Td /F1 9.8 Tf  [(CA 94105, USA)] TJ ET
+0.600 0.600 0.600 rg
+BT 431.314 724.930 Td /F2 30.0 Tf  [(PAYMENT)] TJ ET
+0.000 0.000 0.000 rg
+BT 34.016 721.110 Td /F2 19.5 Tf  [(Buffer)] TJ ET
+BT 34.016 684.235 Td /F2 14.6 Tf  [(Receipt)] TJ ET
+0.400 0.400 0.400 rg
+BT 476.476 43.530 Td /F1 8.2 Tf  [(Generated: 1st April 2018)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000008 00000 n 
+0000000073 00000 n 
+0000000119 00000 n 
+0000000283 00000 n 
+0000000312 00000 n 
+0000000443 00000 n 
+0000000506 00000 n 
+0000002859 00000 n 
+0000002966 00000 n 
+trailer
+<<
+/Size 10
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+3078
+%%EOF
